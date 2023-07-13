@@ -1,0 +1,32 @@
+# OpenAPI Generator Ignore
+
+# Docs
+docs/Auth*
+docs/Body*
+docs/ExtractPromptOut*
+docs/LoRA*
+docs/Lora*
+docs/LocationInner*
+docs/Login*
+docs/OpenGraph*
+docs/Msg*
+docs/Token*
+docs/Twilio*
+docs/Typeform*
+docs/User*
+
+# APIs
+dream3d/api/login_api.py
+dream3d/api/loras_api.py
+dream3d/api/users_api.py
+dream3d/api/utils_api.py
+dream3d/api/materials_api.py
+
+# Models
+dream3d/models/user*.py
+dream3d/models/typeform*.py
+dream3d/models/twilio*.py
+dream3d/models/open_graph*.py
+dream3d/models/lo_ra*.py
+dream3d/models/body_*.py
+dream3d/models/auth*.py
